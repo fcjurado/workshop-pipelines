@@ -1,3 +1,9 @@
+http://ec2-99-80-169-86.eu-west-1.compute.amazonaws.com:9080/jenkins
+http://ec2-99-80-169-86.eu-west-1.compute.amazonaws.com:9080/sonarqube
+
+admin
+adminadmin
+
 # workshop-pipelines
 
 Workshop about CI/CD pipelines with Jenkins and Docker.
